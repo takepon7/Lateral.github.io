@@ -2,8 +2,8 @@ title: コンサルティングサービス
 email: example@example.com
 description: >
   コンサルティング業務の集客とブログ記事を通じた情報提供を行います。
-baseurl: "/Lateral.github.io"
-url: "https://Lateral.github.io"
+baseurl: ""
+url: "https://takepon7.github.io/Lateral.github.io"
 
 theme: minima
 markdown: kramdown
