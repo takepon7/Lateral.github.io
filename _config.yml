@@ -7,3 +7,9 @@ url: "https://takepon7.github.io/Lateral.github.io"
 
 theme: minima
 markdown: kramdown
+defaults:
+  -
+    scope:
+      path: "" # すべてのファイルに適用
+    values:
+      layout: "default" # デフォルトレイアウトを設定
