@@ -6,3 +6,4 @@ baseurl: ""
 url: "https://Lateral.github.io"
 
 theme: minima
+markdown: kramdown
